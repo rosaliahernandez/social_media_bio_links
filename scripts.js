@@ -1,3 +1,3 @@
 console.log(
-	'No js needed for this landing page'
+	'No js needed for this landing page!'
 );
